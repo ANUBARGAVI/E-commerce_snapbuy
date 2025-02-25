@@ -1,0 +1,123 @@
+// [
+//     {
+//       "id": 101,
+//       "name": "Smartphone",
+//       "description": "Latest model with high-resolution display",
+//       "price": 699.99,
+//       "category": "Electronics",
+//       "image": "/images/smartphone.jpeg"
+//     },
+//     {
+//       "id": 102,
+//       "name": "Wireless Earbuds",
+//       "description": "Noise-canceling earbuds with long battery life",
+//       "price": 129.99,
+//       "category": "Electronics",
+//       "image": "/images/ear.jpeg"
+//     },
+//     {
+//       "id": 103,
+//       "name": "Laptop",
+//       "description": "Powerful laptop with 16GB RAM and 512GB SSD",
+//       "price": 999.99,
+//       "category": "Electronics",
+//       "image": "/images/lap.jpeg"
+//     },
+//     {
+//       "id": 201,
+//       "name": "Men's Jacket",
+//       "description": "Stylish and warm winter jacket",
+//       "price": 79.99,
+//       "category": "Clothing",
+//       "image": "/images/jacket.jpeg"
+//     },
+//     {
+//       "id": 202,
+//       "name": "Women's Handbag",
+//       "description": "Elegant leather handbag for daily use",
+//       "price": 49.99,
+//       "category": "Clothing",
+//       "image": "/images/bag.jpeg"
+//     },
+//     {
+//       "id": 203,
+//       "name": "Running Shoes",
+//       "description": "Comfortable and lightweight running shoes",
+//       "price": 59.99,
+//       "category": "Clothing",
+//       "image": "/images/shoes.jpeg"
+//     },
+//     {
+//       "id": 301,
+//       "name": "Blender",
+//       "description": "High-speed blender with multiple settings",
+//       "price": 49.99,
+//       "category": "Home & Kitchen",
+//       "image": "/images/blend.jpeg"
+//     },
+//     {
+//       "id": 302,
+//       "name": "Microwave Oven",
+//       "description": "Compact and efficient microwave oven",
+//       "price": 119.99,
+//       "category": "Home & Kitchen",
+//       "image": "/images/micro.jpeg"
+//     },
+//     {
+//       "id": 303,
+//       "name": "Vacuum Cleaner",
+//       "description": "Powerful vacuum cleaner with HEPA filter",
+//       "price": 149.99,
+//       "category": "Home & Kitchen",
+//       "image": "/images/vaccuum.jpeg"
+//     },
+//     {
+//       "id": 401,
+//       "name": "Fiction Novel",
+//       "description": "Bestselling fiction novel with thrilling storyline",
+//       "price": 19.99,
+//       "category": "Books",
+//       "image": "/images/novel.jpeg"
+//     },
+//     {
+//       "id": 402,
+//       "name": "Cookbook",
+//       "description": "Collection of delicious recipes from top chefs",
+//       "price": 24.99,
+//       "category": "Books",
+//       "image": "/images/recipe.jpeg"
+//     },
+//     {
+//       "id": 501,
+//       "name": "Gaming Console",
+//       "description": "Next-gen gaming console with 4K resolution",
+//       "price": 499.99,
+//       "category": "Gaming",
+//       "image": "/images/gaming.jpeg"
+//     },
+//     {
+//       "id": 502,
+//       "name": "Gaming Headset",
+//       "description": "Surround sound gaming headset with microphone",
+//       "price": 89.99,
+//       "category": "Gaming",
+//       "image": "/images/headset.png"
+//     },
+//     {
+//       "id": 601,
+//       "name": "Mountain Bike",
+//       "description": "Durable mountain bike for all terrains",
+//       "price": 399.99,
+//       "category": "Sports",
+//       "image": "/images/bike.jpeg"
+//     },
+//     {
+//       "id": 602,
+//       "name": "Yoga Mat",
+//       "description": "Non-slip yoga mat for home workouts",
+//       "price": 29.99,
+//       "category": "Sports",
+//       "image": "/images/mat.jpeg"
+//     }
+//   ]
+  
